@@ -1,0 +1,13 @@
+{
+  "name": "leetcode-challenge",
+  "version": "1.0.0",
+  "description": "May LeetCoding Challenge",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jalvis",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.5.3"
+  }
+}
