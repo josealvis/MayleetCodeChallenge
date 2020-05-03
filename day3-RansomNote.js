@@ -25,6 +25,22 @@ const canConstruct =(ransomNote, magazine)=> {
     return true;
 };
 
+const canConstruct2 =(ransomNote, magazine)=> {
+    let hasMap = {}
+    for(let l of magazine){
+       if(hasMap[l])hasMap[l] =hasMap[l]+1;
+       else hasMap[l] =1;
+    }
+    for(let letter of ransomNote ){
+        if(hasMap[letter] && hasMap[letter] > 0 ){
+            hasMap[letter] = hasMap[letter]-1;
+        }else{
+            return false;
+        }
+    }
+    return true;
+};
+
 
 exports.solution =canConstruct;
 
