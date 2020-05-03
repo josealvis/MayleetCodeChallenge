@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "May LeetCoding Challenge",
   "scripts": {
-    "test": "jest   /day2-JewelsAndStones.test --verbose",
-    "test-day2": " test /day2-JewelsAndStones.test" 
+    "test": "jest  --verbose",
+    "test-day2": " jest /day2-JewelsAndStones.test --verbose", 
+    "test-day3": " jest /day3-RansomNote.test --verbose" 
   },
   "author": "Jalvis",
   "license": "ISC",
