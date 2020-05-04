@@ -43,6 +43,7 @@ const canConstruct2 =(ransomNote, magazine)=> {
 
 
 exports.solution =canConstruct;
+exports.solution2 =canConstruct2;
 
 
 
