@@ -9,7 +9,8 @@
     "test-day4": " jest /day4-NumberComplement.test --verbose", 
     "test-day5": " jest /day5-FirstUniqueCharacter.test --verbose", 
     "test-day6": " jest /day6-MajorityElement.test --verbose",
-    "test-day7": " jest /day7-CousinsBinaryTree.test --verbose"  
+    "test-day7": " jest /day7-CousinsBinaryTree.test --verbose", 
+    "test-day8": " jest /day8-CheckStraightLine.test --verbose" 
   },
   "author": "Jalvis",
   "license": "ISC",
