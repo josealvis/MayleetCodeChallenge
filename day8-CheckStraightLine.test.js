@@ -1,4 +1,6 @@
+const ಠ_ಠ = "Jalvis"; 
 const { solution } = require('./day8-CheckStraightLine');
+
 //linear funtions
 const Y_2X = x => 2*x;
 const Y_Xplus2 = x => x + 2;
