@@ -16,7 +16,7 @@
  * @param {number} num
  * @return {boolean}
  */
-const isPerfectSquare = (num) => (num**(1/2)) % 1 === 0;
+const isPerfectSquare = (num) => (num**(0.5)) % 1 === 0;
 
 experts.solution  = isPerfectSquare;
 

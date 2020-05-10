@@ -11,7 +11,7 @@
     "test-day6": " jest /day6-MajorityElement.test --verbose",
     "test-day7": " jest /day7-CousinsBinaryTree.test --verbose", 
     "test-day8": " jest /day8-CheckStraightLine.test --verbose",
-    "test-day9": " jest / day9-ValidPerfectSquare.test --verbose"
+    "test-day9": " jest /day9-ValidPerfectSquare.test --verbose"
    
   },
   "author": "Jalvis",
