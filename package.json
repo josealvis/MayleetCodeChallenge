@@ -13,7 +13,10 @@
     "test-day8": " jest /day8-CheckStraightLine.test --verbose",
     "test-day9": " jest /day9-ValidPerfectSquare.test --verbose",
     "test-day10": " jest /day10-FindTownJudge.test --verbose",
-    "test-day11": " jest /day11-FloodFill.test --verbose"
+    "test-day11": " jest /day11-FloodFill.test --verbose",
+    "test-day12": " jest /day12-SingleElement.test --verbose",
+    "test-day13": " jest /day13-RemoveDigits.test --verbose"
+
    
   },
   "author": "Jalvis",
