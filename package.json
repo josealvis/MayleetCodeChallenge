@@ -16,8 +16,8 @@
     "test-day11": " jest /day11-FloodFill.test --verbose",
     "test-day12": " jest /day12-SingleElement.test --verbose",
     "test-day13": " jest /day13-RemoveDigits.test --verbose",
-    "test-day14": " jest /day14-Trie.test --verbose"
-   
+    "test-day14": " jest /day14-Trie.test --verbose",
+    "test-day15": " jest /day15-MaximumSumCircularSubarray.test --verbose"
   },
   "author": "Jalvis",
   "license": "ISC",
