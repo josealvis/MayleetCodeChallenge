@@ -18,7 +18,8 @@
     "test-day13": " jest /day13-RemoveDigits.test --verbose",
     "test-day14": " jest /day14-Trie.test --verbose",
     "test-day15": " jest /day15-MaximumSumCircularSubarray.test --verbose",
-    "test-day16": " jest /day16-OddEvenlinkedList.test --verbose"
+    "test-day16": " jest /day16-OddEvenlinkedList.test --verbose",
+    "test-day17": " jest /day17-FindAnagramsString.test --verbose"
 
   },
   "author": "Jalvis",
