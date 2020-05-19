@@ -130,8 +130,9 @@ findAnagrams = (s, p) => {
     let result = [];
 
     while (end < s.length) {
-
+        // if the leng is biger or iqual you know that is not a anagram
         if (end - start >= p.length) start++;
+        // if the letter  is not in de map, move to the next letter
         if (currentMap[s[end]] == undefined) {
             start = end + 1;
             end = start;
@@ -139,6 +140,7 @@ findAnagrams = (s, p) => {
             currentMap = { ...mapP };
             continue;
         }
+        
         while (currentMap[s[end]] == 0) {
             currentMap[s[start]] = currentMap[s[start]] + 1;
             start++;
