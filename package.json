@@ -21,7 +21,9 @@
     "test-day16": " jest /day16-OddEvenlinkedList.test --verbose",
     "test-day17": " jest /day17-FindAnagramsString.test --verbose",
     "test-day18": " jest /day18-PermutationString.test --verbose",
-    "test-day19": " jest /day19-OnlineStockSpan.test --verbose"
+    "test-day19": " jest /day19-OnlineStockSpan.test --verbose",
+    "test-day21": " jest /day21-CountSquareSubmatrices.test --verbose"
+    
   },
   "author": "Jalvis",
   "license": "ISC",
